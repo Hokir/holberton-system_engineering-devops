@@ -1,1 +1,2 @@
-0-hello_world : prints "Hello, World"
+0-hello_world: Prints "Hello, World"
+1-confused_smiley: Prints a confused smiley
